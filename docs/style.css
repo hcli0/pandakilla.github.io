@@ -43,3 +43,12 @@ ul {
 .company {
   color: #0e0101;
 }
+
+.avatar {
+  width: 110px;
+  height: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+ 
+}
